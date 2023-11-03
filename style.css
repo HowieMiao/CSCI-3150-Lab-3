@@ -20,7 +20,7 @@ h1,h2,h3 {
     transform: translateY(-200%);
 }
 .skip-link:focus{
-    transform: translateY(-100%);
+    transform: translateY(-50%);
 }
 .skip-link{
     transition: transform 0.3s;
